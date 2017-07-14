@@ -1,0 +1,4 @@
+.ipynb_checkpoints
+
+# I only want to push notebooks I explicitly add
+*.ipynb
